@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     text: "Branching Out:<br>Plant Diversity from Genes to Ecosystems"
     subtext: "on April 12th, 2024 at the UC Davis Alumni Center"
     button: Register
-    buttonlink: "#services"
+    
 
   services:
     title: "Sponsors"
@@ -45,29 +45,34 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "University California, Irvine"
+        year: "Brandon Gaut"
+        desc: "Summary of Brandons work and talk"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "University California, Riverside"
+        year: "Danelle Seymour"
+        desc: "Danelles summary and maybe talk title"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "University California, Santa Cruz"
+        year: "Jarmilla Pitterman"
+        desc: "Jarmilla summary and talk title"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "The Salk Institute"
+        year: "Todd P. Michael"
+        desc: "Todds summary and talk title."
         image: assets/img/timeline/4.jpg
         alt:
+      - title: "University California, Agriculture and Natural Resources"
+        year: "Whitney Brim-DeForest"
+        desc: "Whitney summary and talk tite"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
         # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+        align: left
+    end: "And more <br> talks from <br> UC Davis!"
 
   about:
     title: "About"
