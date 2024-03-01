@@ -72,7 +72,7 @@ en: &DEFAULT_EN
         alt: image alt text
         # you can enforce the alignment
         align: left
-    end: "And more <br> talks from <br> UC Davis!"
+    end: "And more <br> from UC Davis<br> students and <br> faculty!"
 
   about:
     title: "About"
