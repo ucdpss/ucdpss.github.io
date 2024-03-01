@@ -10,8 +10,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+plugins:
+  - jekyll-remote-theme
 
-theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
+
+
+#theme: jekyll-agency
 
 url    : ""  # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "ucdpss.github.io" # the subpath of your site, e.g. /blog
