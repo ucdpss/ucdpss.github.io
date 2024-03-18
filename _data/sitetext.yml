@@ -129,7 +129,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Mariele Lensink"
-        role: 
+        role: ""
         image: assets/img/team/mariele.jpeg
         social:
           - url: https://twitter.com
@@ -139,7 +139,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Colleen Mills"
-        role: "Secretary"
+        role: ""
         image: assets/img/team/colleen.jpeg
         social:
           - url: https://twitter.com
@@ -149,7 +149,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Xiaolu Zhang"
-        role: "Secretary"
+        role: ""
         image: assets/img/team/xiaolu.jpeg
         social:
           - url: https://twitter.com
