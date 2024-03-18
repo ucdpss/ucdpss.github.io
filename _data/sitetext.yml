@@ -90,7 +90,7 @@ en: &DEFAULT_EN
     people:
       - name: "Grey Monroe PhD"
         role: "Faculty Mentor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/headshotmonroe.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -178,6 +178,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Mia Godbey"
+        role: ""
+        image: assets/img/team/500x500.jpg
 
   contact:
     title: "Contact Us"
