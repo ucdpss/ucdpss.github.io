@@ -35,8 +35,8 @@ en: &DEFAULT_EN
   portfolio:
     title: "Program"
     text: "Schedule To Be Announced"
-    #section: portfolio
-    #closebutton: "Close Project"
+    section: portfolio
+    closebutton: "Close Project"
 
   timeline:
     title: "Speakers"
@@ -76,8 +76,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About"
-    text: "small background section on the symposium"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "We are thrilled to bring together the UC Davis Plant Sciences community for this year's symposium"
+    body: "Come to hear from speakers from across a diverse range of plant-related disciplines, network with academic and industry professionals, and enjoy a poster session and reception. The event will also be live-streamed to share fantastic research with attendees near and far."
     section: about
 
 
@@ -85,7 +85,7 @@ en: &DEFAULT_EN
   team:
     title: "Organizing Committee"
     text: "The Plant Sciences Symposium Organizing Committee is student led with a faculty advisor."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: ""
     section: team
     people:
       - name: "Grey Monroe PhD"
