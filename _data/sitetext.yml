@@ -94,8 +94,6 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Matthew Davis"
@@ -104,8 +102,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "David Mitchell"
@@ -114,8 +111,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Alice Pierce"
@@ -124,8 +120,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Mariele Lensink"
@@ -134,8 +129,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Colleen Mills"
@@ -144,8 +138,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Xiaolu Zhang"
@@ -154,8 +147,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Zhenglin Zhang"
@@ -164,8 +156,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Mirella Zaccheo"
@@ -174,8 +165,7 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Mia Godbey"
