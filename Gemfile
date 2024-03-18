@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 gemspec
 
-# Delete the following lines if not on Windows: 
-# Performance-booster for watching directories on Windows
-gem "wdm", ">= 0.1.0" if Gem.win_platform?
+gem 'csv'
+gem 'base64' # Note: As of my last update, 'base64' might still be part of the standard library and may not need to be explicitly included.
+gem 'bigdecimal'
+gem 'jekyll-remote-theme'
