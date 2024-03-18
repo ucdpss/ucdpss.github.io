@@ -34,13 +34,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Program"
-    text: "We can put the schedule here"
-    section: portfolio
-    closebutton: "Close Project"
+    text: "Schedule To Be Announced"
+    #section: portfolio
+    #closebutton: "Close Project"
 
   timeline:
     title: "Speakers"
-    text: "Populate this with speaker information"
+    text: "Thank you to our 2024 invited speakers from across California for sharing their exciting research!"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -84,7 +84,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Organizing Committee"
-    text: "populate with committee information"
+    text: "The Plant Sciences Symposium Organizing Committee is student led with a faculty advisor."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
