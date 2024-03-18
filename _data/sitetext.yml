@@ -63,7 +63,7 @@ en: &DEFAULT_EN
       - title: "The Salk Institute"
         year: "Todd P. Michael"
         desc: "Todds summary and talk title."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/toddpmichael_headshot_salk.png
         alt:
       - title: "University California, Agriculture and Natural Resources"
         year: "Whitney Brim-DeForest"
