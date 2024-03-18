@@ -62,7 +62,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "The Salk Institute"
         year: "Todd P. Michael"
-        desc: "Todds summary and talk title."
+        desc: "Todd Michael is a Research Professor at the Salk Institute for Biological Studies where his group focuses on the sequencing and analysis of plant genomes. His group is part of the Harnessing Plant Initiative at the Salk that aims to develop crop plants that sequester more carbon via extensive root systems containing recalcitrant carbon polymers to fight climate change."
         image: assets/img/timeline/toddpmichael_headshot_salk.png
         alt:
       - title: "University California, Agriculture and Natural Resources"
