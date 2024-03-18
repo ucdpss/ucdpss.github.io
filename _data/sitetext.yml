@@ -47,18 +47,18 @@ en: &DEFAULT_EN
     events:
       - title: "University California, Irvine"
         year: "Brandon Gaut"
-        desc: "Summary of Brandons work and talk"
-        image: assets/img/timeline/1.jpg
+        desc: "Brandon Gaut is a plant evolutionary biologist who uses the tools of genomics to describe and quantify the processes that drive the evolution of plant genomes. In addition to research, Gaut has served as an administrator at UCI (as Chair, Interim Dean and Associate Dean), as President of the Society for Molecular Biology and Evolution, and currently as the co Editor-in-Chief of the journal Molecular Biology and Evolution. "
+        image: assets/img/timeline/brandon_headshot.jpeg
         alt:
       - title: "University California, Riverside"
         year: "Danelle Seymour"
-        desc: "Danelles summary and maybe talk title"
-        image: assets/img/timeline/2.jpg
+        desc: "Danelle is an Assistant Professor in the Department of Botany and Plant Sciences at UCR. Before joining UCR, Danelle completed her NSF Postdoctoral Fellowship at UC Irvine. She obtained her Ph.D. from the Max Planck Institute of Developmental Biology (University of Tuebingen) in 2016."
+        image: assets/img/timeline/02202019_DANELLE_SEYMOUR_01_compress.jpg
         alt:
       - title: "University California, Santa Cruz"
         year: "Jarmilla Pitterman"
-        desc: "Jarmilla summary and talk title"
-        image: assets/img/timeline/3.jpg
+        desc: "Jarmila Pittermann is a Professor in the Department of Ecology and Evolutionary Biology at UC Santa Cruz where she teaches plant physiology. Her research focuses on plant structure and function in the context of evolution and climate change. "
+        image: assets/img/timeline/Image from iOS.jpg
         alt: image alt text
       - title: "The Salk Institute"
         year: "Todd P. Michael"
@@ -67,8 +67,8 @@ en: &DEFAULT_EN
         alt:
       - title: "University California, Agriculture and Natural Resources"
         year: "Whitney Brim-DeForest"
-        desc: "Whitney summary and talk tite"
-        image: assets/img/timeline/3.jpg
+        desc: "Whitney Brim-DeForest is the County Director for University of California Cooperative Extension Sutter-Yuba, and the UCCE Rice and Wild Rice Advisor for Sutter, Yuba, Placer, and Sacramento counties. She holds a M.S. in International Agricultural Development and a PhD in Horticulture and Agronomy from the University of California, Davis. "
+        image: assets/img/timeline/whitney_headshot.png
         alt: image alt text
         # you can enforce the alignment
         align: left
