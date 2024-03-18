@@ -140,9 +140,12 @@
 }
 // Styling for the services section image
 .portfolio-image {
+  display: block; // Makes the image a block-level element, enabling margin auto to work
   max-width: 100%; // Ensures the image is responsive and fits within its container
   height: auto; // Maintains the aspect ratio of the image
   margin-top: 20px; // Adds some space above the image, adjust as needed
+  margin-left: auto; // Centers the image horizontally
+  margin-right: auto; // Centers the image horizontally
 }
 // Styling for the services section image with shadow
 .portfolio-image {
