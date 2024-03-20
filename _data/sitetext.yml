@@ -89,30 +89,12 @@ en: &DEFAULT_EN
       - name: "Matthew Davis"
         role: "President - Plant Biology Graduate Group"
         image: assets/img/team/matt.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "David Mitchell"
         role: "Treasurer - Ecology Graduate Group"
         image: assets/img/team/david.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Alice Pierce"
         role: "Secretar - Plant Biology Graduate Group"
         image: assets/img/team/alice.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Mariele Lensink"
         role: "Integrative Genetics and Genomics Graduate Group"
         image: assets/img/team/mariele.jpeg
