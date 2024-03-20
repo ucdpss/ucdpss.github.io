@@ -87,7 +87,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/j-grey-monroe-2913aa77/
             icon: fab fa-linkedin-in
       - name: "Matthew Davis"
-        role: "President"
+        role: "President - Plant Biology Graduate Group"
         image: assets/img/team/matt.jpeg
         social:
           - url: https://twitter.com
@@ -96,7 +96,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "David Mitchell"
-        role: "Treasurer"
+        role: "Treasurer - Ecology Graduate Group"
         image: assets/img/team/david.jpeg
         social:
           - url: https://twitter.com
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Alice Pierce"
-        role: "Secretary"
+        role: "Secretar - Plant Biology Graduate Group"
         image: assets/img/team/alice.jpeg
         social:
           - url: https://twitter.com
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/xiaolu-zhang-ab7b73272/
             icon: fab fa-linkedin-in
       - name: "Zhenglin Zhang"
-        role: ""
+        role: "Horticulture and Agronomy Graduate Group"
         image: assets/img/team/zhang.jpg
         social:
           - url: https://www.linkedin.com/in/zhang-zhenglin-plant-soil
