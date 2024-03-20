@@ -21,16 +21,6 @@ en: &DEFAULT_EN
     title: "Sponsors"
     text: "Thank you to the following sponsors who support our symposium!"
     section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
   portfolio:
     title: "Program"
@@ -92,9 +82,9 @@ en: &DEFAULT_EN
         role: "Faculty Mentor"
         image: assets/img/team/headshotmonroe.png
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/Grey_Monroe
             icon: fab fa-twitter
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/j-grey-monroe-2913aa77/
             icon: fab fa-linkedin-in
       - name: "Matthew Davis"
         role: "President"
@@ -124,53 +114,40 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Mariele Lensink"
-        role: ""
+        role: "Integrative Genetics and Genomics Graduate Group"
         image: assets/img/team/mariele.jpeg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/LensinkMariele
             icon: fab fa-twitter
-
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/marielelensink/
             icon: fab fa-linkedin-in
       - name: "Colleen Mills"
-        role: ""
+        role: "Ecology Graduate Group"
         image: assets/img/team/colleen.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Xiaolu Zhang"
-        role: ""
+        role: "Horticulture and Agronomy Graduate Group"
         image: assets/img/team/xiaolu.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/xiaolu-zhang-ab7b73272/
             icon: fab fa-linkedin-in
       - name: "Zhenglin Zhang"
         role: ""
         image: assets/img/team/zhang.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/zhang-zhenglin-plant-soil
             icon: fab fa-linkedin-in
       - name: "Mirella Zaccheo"
-        role: ""
+        role: "Horticulture and Agronomy Graduate Group"
         image: assets/img/team/mirella.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/mirella-zaccheo-84aa83193/
             icon: fab fa-linkedin-in
       - name: "Mia Godbey"
-        role: ""
+        role: "Horticulture and Agronomy Graduate Group"
         image: assets/img/team/500x500.jpg
+        social:
+          - url: https://www.linkedin.com/in/mia-godbey-1a4a33153/
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
