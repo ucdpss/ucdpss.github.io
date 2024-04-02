@@ -35,6 +35,10 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Corteva Agriscience"
+        year: "Jennifer Barry"
+        desc: "Jennifer Barry is a Technical Manager at Corteva Agriscience whose interests focus on the discovery of proteins that provide the next generation of input traits for use in transgenic crops. She currently leads the Insect Control and Herbicide Tolerance Discovery group which leverages biodiversity, protein biochemistry, next-generation sequencing technology and bioinformatics to discover proteins with utility for these traits."
+        image: assets/img/timeline/jennifer_headshot.jpg
       - title: "University of California, Irvine"
         year: "Brandon Gaut"
         desc: "Brandon Gaut is a plant evolutionary biologist who uses the tools of genomics to describe and quantify the processes that drive the evolution of plant genomes. In addition to research, Gaut has served as an administrator at UCI (as Chair, Interim Dean and Associate Dean), as President of the Society for Molecular Biology and Evolution, and currently as the co Editor-in-Chief of the journal Molecular Biology and Evolution. "
