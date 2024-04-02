@@ -65,7 +65,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/whitney_headshot.png
         alt: image alt text
         # you can enforce the alignment
-        align: left
+        align: right
     end: "And more <br> from UC Davis<br> students and <br> faculty!"
 
   about:
