@@ -98,6 +98,7 @@ en: &DEFAULT_EN
         image: assets/img/team/david.jpeg
         social:
           - url: "https://www.linkedin.com/in/david-mitchell-0a4265b/"
+            icon: fab fa-linkedin-in
       - name: "Alice Pierce"
         role: "Secretary - Plant Biology Graduate Group"
         image: assets/img/team/alice.jpeg
