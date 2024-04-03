@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Program"
-    text: "Schedule To Be Announced"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
