@@ -96,14 +96,14 @@ en: &DEFAULT_EN
      Bicycle parking is available near the Alumni Center and across the street near the Mondavi Center. 
      Car parking is available with purchase of a visitor pass (more information linked below) in the Gateway Structure Parking Lot
       and the open air lots behind the Manetti Shrem Museum. 
-      For visitor pass parking instructions, check the following link https://taps.ucdavis.edu/visitor </a> 
+      For visitor pass parking instructions, check the following link https://taps.ucdavis.edu/visitor  
       Accessible parking and services offered by UC Davis can be learned about at the following link https://taps.ucdavis.edu/parking/guide/disabled <br>"
-       buttons:
+      buttons:
       - text: "Webinar Link"
         link: "https://ucdavis.zoom.us/webinar/register/WN_saMdd77ES-GZdgSvt3HJ9w"
       - text: "Virtual Posters"
         link: "https://ucdavis.box.com/s/kfqjzaazv3ihr85sc3ip9d3a333j0ag0"
-    section: about
+      section: about
  
 
 
