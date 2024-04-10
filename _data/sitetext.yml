@@ -14,13 +14,13 @@ en: &DEFAULT_EN
     title: "Corteva Symposia Series Presents:"
     text: "Branching Out:<br>Plant Diversity from Genes to Ecosystems"
     subtext: "on April 12th, 2024, 8:00 AM - 7 pm at the UC Davis Alumni Center"
-    button1: "Register"
-      link: "https://docs.google.com/forms/d/e/1FAIpQLSdgWq-aTtR9m7GoCM1SvISYs9yPsxDkOocbIHSbLNNDictWDw/viewform?usp=sf_link"
-    button2: "Apply to Present"
-      link: "https://docs.google.com/forms/d/e/1FAIpQLSfa9ho82EJ9m17QyVtgojgXT1dKCgwWQ-nL7g8_f1unL5RZVA/viewform?usp=sf_link"
-    button3: "Volunteer"
-      link: "https://docs.google.com/forms/d/e/1FAIpQLScdS0clB6v7sgSrlMZdRA_sVU1WHu1g8PaAz5rF8713vxkukw/viewform?usp=sf_link"
-
+    buttons:
+      - text: "Register"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdgWq-aTtR9m7GoCM1SvISYs9yPsxDkOocbIHSbLNNDictWDw/viewform?usp=sf_link"
+      - text: "Apply to Present"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSfa9ho82EJ9m17QyVtgojgXT1dKCgwWQ-nL7g8_f1unL5RZVA/viewform?usp=sf_link"
+      - text: "Volunteer"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLScdS0clB6v7sgSrlMZdRA_sVU1WHu1g8PaAz5rF8713vxkukw/viewform?usp=sf_link"
     
     
 

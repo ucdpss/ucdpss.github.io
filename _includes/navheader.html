@@ -60,15 +60,11 @@
      <!-- Smaller and less emphasized text -->
      <div class="intro-subheading">{{ site.data.sitetext[site.locale].header.subtext | markdownify }}</div>
      {%- endif -%}
-     {% if site.data.sitetext[site.locale].header.button1 %}
-     <a class="btn btn-primary btn-xl text-uppercase" href="{{ site.data.sitetext[site.locale].header.button1.link }}" target="_blank" style="margin-right: 40px;">{{ site.data.sitetext[site.locale].header.button1}}</a>
-     {% endif %}
-     {% if site.data.sitetext[site.locale].header.button2 %}
-     <a class="btn btn-primary btn-xl text-uppercase" href="{{ site.data.sitetext[site.locale].header.button2.link }}" target="_blank" style="margin-right: 40px;">{{ site.data.sitetext[site.locale].header.button2}}</a>
-     {% endif %}
-     {% if site.data.sitetext[site.locale].header.button3 %}
-     <a class="btn btn-primary btn-xl text-uppercase" href="{{ site.data.sitetext[site.locale].header.button3.link }}" target="_blank">{{ site.data.sitetext[site.locale].header.button3}}</a>
-     {% endif %}
+     {% if site.data.sitetext[site.locale].header.buttons %}
+        {% for button in site.data.sitetext[site.locale].header.buttons %}
+          <a class="btn btn-primary btn-xl text-uppercase" href="{{ button.link }}" target="_blank" style="margin-right: 40px;">{{ button.text }}</a>
+       {% endfor %}
+      {%- endif -%}
       </div>
     </div>
   </header>
