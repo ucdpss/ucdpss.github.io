@@ -29,6 +29,11 @@
         <div class="large text-muted">{{ site.data.sitetext.about.body | markdownify }}</div>
       </div>
     </div>
+    {% if site.data.sitetext.about.buttons %}
+    {% for button in site.data.sitetext.about.buttons %}
+      <a class="btn btn-primary btn-xl text-uppercase" href="{{ button.link }}" target="_blank" style="margin-right: 40px;">{{ button.text }}</a>
+    {% endfor %}
+  {% endif %}
   </div>
 </section>
 {% endif %}
