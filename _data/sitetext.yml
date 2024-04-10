@@ -159,7 +159,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/mirella-zaccheo-84aa83193/
             icon: fab fa-linkedin-in
       - name: "Mia Godbey"
-        image: assets/img/team.mia.jpg
+        image: assets/img/team/mia.jpg
         role: "Horticulture and Agronomy Graduate Group"
         social:
           - url: https://www.linkedin.com/in/mia-godbey-1a4a33153/
