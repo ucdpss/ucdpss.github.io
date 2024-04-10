@@ -100,7 +100,11 @@ en: &DEFAULT_EN
       and the open air lots behind the Manetti Shrem Museum. 
       For visitor pass parking instructions, check the following link https://taps.ucdavis.edu/visitor  
       Accessible parking and services offered by UC Davis can be learned about at the following link https://taps.ucdavis.edu/parking/guide/disabled <br>"
- 
+  buttons:
+  - text: "Webinar Link"
+    link: "https://ucdavis.zoom.us/webinar/register/WN_saMdd77ES-GZdgSvt3HJ9w"
+  - text: "Virtual Posters"
+    link: "https://ucdavis.box.com/s/kfqjzaazv3ihr85sc3ip9d3a333j0ag0"
 
 
 
