@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: "Corteva Symposia Series Presents:"
     text: "Branching Out:<br>Plant Diversity from Genes to Ecosystems"
-    subtext: "on April 12th, 2024, 8:00 AM - 7 pm at the UC Davis Alumni Center"
+    subtext: "on April 12th, 2024, 8 AM - 7 pm at the UC Davis Alumni Center"
     buttons:
       - text: "Register"
         link: "https://docs.google.com/forms/d/e/1FAIpQLSdgWq-aTtR9m7GoCM1SvISYs9yPsxDkOocbIHSbLNNDictWDw/viewform?usp=sf_link"
@@ -99,6 +99,11 @@ en: &DEFAULT_EN
       For visitor pass parking instructions, check the following link https://taps.ucdavis.edu/visitor </a> 
       Accessible parking and services offered by UC Davis can be learned about at the following link https://taps.ucdavis.edu/parking/guide/disabled <br>"
     section: about
+    buttons:
+      - text: "Webinar Link"
+        link: "https://ucdavis.zoom.us/webinar/register/WN_saMdd77ES-GZdgSvt3HJ9w"
+      - text: "Virtual Posters"
+        link: "https://ucdavis.box.com/s/kfqjzaazv3ihr85sc3ip9d3a333j0ag0"
 
 
 
