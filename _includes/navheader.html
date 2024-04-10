@@ -60,12 +60,15 @@
      <!-- Smaller and less emphasized text -->
      <div class="intro-subheading">{{ site.data.sitetext[site.locale].header.subtext | markdownify }}</div>
      {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase" href="https://docs.google.com/forms/d/e/1FAIpQLSdgWq-aTtR9m7GoCM1SvISYs9yPsxDkOocbIHSbLNNDictWDw/viewform?usp=sf_link"target="_blank" style="margin-right: 40px;">{{ site.data.sitetext[site.locale].header.button }}</a>
-        {%- endif -%}
-        <a class="btn btn-primary btn-xl text-uppercase" href="https://docs.google.com/forms/d/e/1FAIpQLSfa9ho82EJ9m17QyVtgojgXT1dKCgwWQ-nL7g8_f1unL5RZVA/viewform?usp=sf_link"target="_blank" style = "margin-right: 40px;">Apply to Present</a>
-        <a class="btn btn-primary btn-xl text-uppercase" href="https://docs.google.com/forms/d/e/1FAIpQLScdS0clB6v7sgSrlMZdRA_sVU1WHu1g8PaAz5rF8713vxkukw/viewform?usp=sf_link"target="_blank">Volunteer</a>
-
+     {% if site.data.sitetext[site.locale].header.button1 %}
+      <a class="btn btn-primary btn-xl text-uppercase" href="{{ site.data.sitetext[site.locale].header.button1.link }}" target="_blank" style="margin-right: 40px;">{{ site.data.sitetext[site.locale].header.button1.text }}</a>
+     {% endif %}
+     {% if site.data.sitetext[site.locale].header.button2 %}
+      <a class="btn btn-primary btn-xl text-uppercase" href="{{ site.data.sitetext[site.locale].header.button2.link }}" target="_blank" style="margin-right: 40px;">{{ site.data.sitetext[site.locale].header.button2.text }}</a>
+     {% endif %}
+     {% if site.data.sitetext[site.locale].header.button3 %}
+      <a class="btn btn-primary btn-xl text-uppercase" href="{{ site.data.sitetext[site.locale].header.button3.link }}" target="_blank">{{ site.data.sitetext[site.locale].header.button3.text }}</a>
+     {% endif %}
       </div>
     </div>
   </header>
