@@ -93,10 +93,10 @@ en: &DEFAULT_EN
           like to consume an alcoholic beverage during the poster session.<br> 
       - part: "<br><b>Virtual Attendance Information</b><br>"
         button: "Webinar Link" 
-      - link: "https://ucdavis.zoom.us/webinar/register/WN_saMdd77ES-GZdgSvt3HJ9w"  
+        link: "https://ucdavis.zoom.us/webinar/register/WN_saMdd77ES-GZdgSvt3HJ9w"  
       - part: "Virtual Poster Presentations" 
         button: "Virtual Posters"
-      - link: "https://ucdavis.box.com/s/kfqjzaazv3ihr85sc3ip9d3a333j0ag0" 
+        link: "https://ucdavis.box.com/s/kfqjzaazv3ihr85sc3ip9d3a333j0ag0" 
       - part: >
 
           <b> Commuting/Parking </b> <br>Nearby bus stops are located at the Silo Terminal and Peter J. Shields Library, a 10-minute walk away.
