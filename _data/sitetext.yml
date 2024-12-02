@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: "Corteva Symposia Series Presents:"
-    text: "Branching Out:<br>Plant Diversity from Genes to Ecosystems"
-    subtext: "on April 12th, 2024, 8 AM - 7 pm at the UC Davis Alumni Center"
+    text: "Cultivating the Future"
+    subtext: "on April 11th, 2025, 8 AM - 7 pm at the UC Davis Conference Center"
     buttons:
       - text: "Register"
         link: "https://docs.google.com/forms/d/e/1FAIpQLSdgWq-aTtR9m7GoCM1SvISYs9yPsxDkOocbIHSbLNNDictWDw/viewform?usp=sf_link"
@@ -79,16 +79,15 @@ en: &DEFAULT_EN
     title: "About"
     body_parts:
       - part: >
-          We are thrilled to bring together the UC Davis Plant Sciences community for this year's symposium <br><br>
+          We are thrilled to bring together the UC Davis Plant Sciences community for this year's symposium! <br><br>
           Come to hear from speakers from across a diverse range of plant-related disciplines, 
           network with academic and industry professionals, and enjoy a poster session and reception. 
           The event will also be live-streamed to share fantastic research with attendees near and far.<br><br>
           <b>In-Person Attendance Information</b>
-          <br>The symposium will be hosted at the Walter A. Buehler Alumni Center (530 Alumni Ln, Davis, CA 95616). 
+          <br>The symposium will be hosted at the UC Davis Conference Center (550 Alumni Ln, Davis, CA 95616). 
           The doors will open at 8 AM, and the event will conclude at 7 PM. Upon arrival, please proceed to the lobby 
-          to check in and receive your name badge. The main conference room seats up to 200 people with additional 
-          viewing areas outside (Alumni Center Courtyard) and in a designated quiet room. If you are presenting a 
-          poster, please mount your poster in the outdoor space allocated for the poster session. Lunch and light 
+          to check in and receive your name badge. If you are presenting a 
+          poster, please mount your poster in Ballroom A allocated for the poster session. Lunch and light 
           refreshments will be served on-site. Please be prepared to show proof of age when checking in if you would 
           like to consume an alcoholic beverage during the poster session.
       - part: "<b>Virtual Attendance Information</b>"
@@ -99,11 +98,13 @@ en: &DEFAULT_EN
         link: "https://ucdavis.box.com/s/kfqjzaazv3ihr85sc3ip9d3a333j0ag0" 
       - part: >
           <b> Commuting/Parking </b> <br>Nearby bus stops are located at the Silo Terminal and Peter J. Shields Library, a 10-minute walk away.
-          Bicycle parking is available near the Alumni Center and across the street near the Mondavi Center. 
+          Bicycle parking is available near the Conference Center and across the street near the Mondavi Center. 
           Car parking is available with purchase of a visitor pass (more information linked below) in the Gateway Structure Parking Lot
           and the open air lots behind the Manetti Shrem Museum. 
-          For visitor pass parking instructions, check the following link https://taps.ucdavis.edu/visitor  
-          Accessible parking and services offered by UC Davis can be learned about at the following link https://taps.ucdavis.edu/parking/guide/disabled <br>"
+          For visitor pass parking instructions, check the following link:
+      - link: "https://taps.ucdavis.edu/visitor"   
+      - part: "For information on accessible parking and services offered by UC Davis, check the following link:"
+      - link: "https://taps.ucdavis.edu/parking/guide/disabled" <br>
     section: about
 
 
