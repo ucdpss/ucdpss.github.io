@@ -90,11 +90,11 @@ en: &DEFAULT_EN
           poster, please mount your poster in Ballroom A allocated for the poster session. Lunch and light 
           refreshments will be served on-site. Please be prepared to show proof of age when checking in if you would 
           like to consume an alcoholic beverage during the poster session.
-      - part: "<b>Virtual Attendance Information</b>"
-        button: "Webinar Link" 
-        link: "https://ucdavis.zoom.us/webinar/register/WN_saMdd77ES-GZdgSvt3HJ9w"  
-      - part: "Virtual Poster Presentations" 
-        button: "Virtual Posters"
+      #- part: "<b>Virtual Attendance Information</b>"
+      #  button: "Webinar Link" 
+      #  link: "https://ucdavis.zoom.us/webinar/register/WN_saMdd77ES-GZdgSvt3HJ9w"  
+      - part: "<b>2024 Virtual Poster Presentations</b>" 
+        button: "2024 Virtual Posters"
         link: "https://ucdavis.box.com/s/kfqjzaazv3ihr85sc3ip9d3a333j0ag0" 
       - part: >
           <b> Commuting/Parking </b> <br>Nearby bus stops are located at the Silo Terminal and Peter J. Shields Library, a 10-minute walk away.
