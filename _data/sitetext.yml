@@ -36,8 +36,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Speakers"
-    text: "Thank you to our 2024 invited speakers from across California for sharing their exciting research!"
+    title: "Last Year's Speakers"
+    text: "Thank you to our 2024 invited speakers from across California for sharing their exciting research! Check back soon for the 2025 speaker list."
     section: timeline
     # left is the default
     #start_align: "left"
