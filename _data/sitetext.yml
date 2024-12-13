@@ -16,22 +16,22 @@ en: &DEFAULT_EN
     subtext: "on April 11th, 2025, 8 AM - 7 pm at the UC Davis Conference Center"
     buttons:
       - text: "Register"
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSdgWq-aTtR9m7GoCM1SvISYs9yPsxDkOocbIHSbLNNDictWDw/viewform?usp=sf_link"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSfxL7gmOI94-ZwSGfZ49wmCaubKvJqlwJl3xthubCuaJi8poQ/viewform?usp=sharing"
       - text: "Apply to Present"
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSfa9ho82EJ9m17QyVtgojgXT1dKCgwWQ-nL7g8_f1unL5RZVA/viewform?usp=sf_link"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSc95q9Zhkg8m99BnJJi4l0dglaJ9NE4t58wS3iN20tQLDteiQ/viewform?usp=sharing"
       - text: "Volunteer"
-        link: "https://docs.google.com/forms/d/e/1FAIpQLScdS0clB6v7sgSrlMZdRA_sVU1WHu1g8PaAz5rF8713vxkukw/viewform?usp=sf_link"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSf6c_f2FeOOemNL2YJAYrbF3FwK-PR-SI22CN4QRBtOEm4UZA/viewform?usp=sharing"
     
     
 
   services:
     title: "Sponsors"
-    text: "Thank you to the following sponsors who support our symposium!"
+    text: "Thank you to 2024 sponsors who supported last year's symposium!"
     section: services
 
   portfolio:
     title: "Program"
-    text: ""
+    text: "Check back for the 2025 Program coming soon!"
     section: portfolio
     closebutton: "Close Project"
 
