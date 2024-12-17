@@ -166,6 +166,16 @@ en: &DEFAULT_EN
       - name: "Lewis Daniel"
         role: "Graduate Student Researcher, Horticulture and Agronomy Graduate Group, Linquist Lab. Growing degree day modeling focused on the effects of temperature and nitrogen rate on rice plant physiology"
         image: assets/img/team/lewis.png
+      - name: "Ali Said Yusuf"
+        role: "PhD Candidate, Horticulture and Agronomy Graduate Group, Cook Lab. Chickpea genetics, genomics and breeding"
+        image: assets/img/team/ali.jpg
+        social:
+          - url: https://www.linkedin.com/in/ali-said-yusuf-a4b0a7a9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+            icon: fab fa-linkedin-in
+      - name: "Amanda Wong"
+        role: "PhD Candidate, Ecology Graduate Group, Taylor lab. Investigating plastic pollution in agricultural ecosystems and the effect on plants"
+        image: assets/img/team/amanda.jpeg
+            
 
   contact:
     title: "Contact Us"
