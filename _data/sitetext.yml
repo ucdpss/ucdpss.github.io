@@ -67,7 +67,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/adam.jpg
         alt:
         # you can enforce the alignment
-        align: right
+        #align: right
     end: "And more <br> from UC Davis<br> students and <br> faculty!"
 
   about:
