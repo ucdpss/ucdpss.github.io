@@ -36,41 +36,36 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Last Year's Speakers"
-    text: "Thank you to our 2024 invited speakers from across California for sharing their exciting research! Check back soon for the 2025 speaker list."
+    title: "2025 Invited Speakers"
+    text: "Thank you to invited speakers for sharing their exciting research!"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Corteva Agriscience"
-        year: "Jennifer Barry"
-        desc: "Jennifer Barry is a Technical Manager at Corteva Agriscience whose interests focus on the discovery of proteins that provide the next generation of input traits for use in transgenic crops. She currently leads the Insect Control and Herbicide Tolerance Discovery group which leverages biodiversity, protein biochemistry, next-generation sequencing technology and bioinformatics to discover proteins with utility for these traits."
-        image: assets/img/timeline/jennifer_headshot.jpg
-      - title: "University of California, Irvine"
-        year: "Brandon Gaut"
-        desc: "Brandon Gaut is a plant evolutionary biologist who uses the tools of genomics to describe and quantify the processes that drive the evolution of plant genomes. In addition to research, Gaut has served as an administrator at UCI (as Chair, Interim Dean and Associate Dean), as President of the Society for Molecular Biology and Evolution, and currently as the co Editor-in-Chief of the journal Molecular Biology and Evolution. "
-        image: assets/img/timeline/brandon_headshot.jpeg
+      - title: "University of Minnesota"
+        year: "Rex Bernardo"
+        desc: "Rex Bernardo is a Distinguished University Teaching Professor and endowed chair in maize breeding and genetics at the University of Minnesota. He obtained his undergraduate degree in the Philippines in 1984 and his Ph.D. degree in plant breeding from the University of Illinois in 1988. Dr. Bernardo developed the widely used genomic best linear unbiased prediction or GBLUP procedure in 1994, and most of his work has focused on marker-assisted breeding. Dr. Bernardo is director of the Plant Breeding Center at Minnesota, has written two textbooks, and teaches graduate courses in plant breeding and in professional skills for scientists as well as a freshman seminar course on coffee."
+        image: assets/img/timeline/rex.jpg
+      - title: "Cal Poly San Luis Obispo"
+        year: "Seeta Sistla"
+        desc: "Seeta Sistla is an Associate Professor in Natural Resources Management and Environmental Sciences at Cal Poly, San Luis Obispo, CA. Dr. Sistla’s scholarship focuses on understanding how land systems respond to environmental and management changes and how these responses can feed back to affect critical environmental processes like carbon sequestration. She received her PhD from UCSB focusing on terrestrial biogeochemical responses to warming in arctic systems and was a NOAA Climate and Global Change postdoctoral fellow at UC Irvine. Dr. Sistla joined Cal Poly in 2019 where her lab's research grew to include the study of the extent and consequences of plastic pollution in agricultural systems—a shift that reflects the pernicious expansion of plasticulture in CA and across the world."
+        image: assets/img/timeline/seeta.jpg
         alt:
-      - title: "University of California, Riverside"
-        year: "Danelle Seymour"
-        desc: "Danelle is an Assistant Professor in the Department of Botany and Plant Sciences at UCR. Before joining UCR, Danelle completed her NSF Postdoctoral Fellowship at UC Irvine. She obtained her Ph.D. from the Max Planck Institute of Developmental Biology (University of Tuebingen) in 2016."
-        image: assets/img/timeline/02202019_DANELLE_SEYMOUR_01_compress.jpg
+      - title: "Cal Poly Humboldt"
+        year: "Tawanda Gara"
+        desc: "Tawanda Gara is an Assistant Professor in the Department of Environmental Science and Management at Cal Poly Humboldt, where he teaches in the geospatial interdisciplinary program. His research interests lie in GIScience, Earth Observation, and Spatial Statistics and their application in natural resources management, specifically forestry, agriculture, and environment (FORAGE)."
+        image: assets/img/timeline/tawanda.jpg
         alt:
-      - title: "University of California, Santa Cruz"
-        year: "Jarmila Pittermann"
-        desc: "Jarmila Pittermann is a Professor in the Department of Ecology and Evolutionary Biology at UC Santa Cruz where she teaches plant physiology. Her research focuses on plant structure and function in the context of evolution and climate change. "
-        image: assets/img/timeline/Image from iOS.jpg
+      - title: "University of Wisconsin-Madison"
+        year: "Shelby Ellison"
+        desc: "Dr. Shelby Ellison is an Assistant Professor in the Department of Plant and Agroecosystem Sciences at the University of Wisconsin - Madison. Her research interests include preserving, characterizing, and utilizing genetic diversity in alternative crops to meet the needs of regional farmers. She is also interested in how human interactions with plants, through domestication and breeding, have altered the plant genome and how we can use these selection signatures to trace domestication and improvement throughout history."
+        image: assets/img/timeline/shelby.jpg
         alt: image alt text
-      - title: "The Salk Institute"
-        year: "Todd P. Michael"
-        desc: "Todd Michael is a Research Professor at the Salk Institute for Biological Studies where his group focuses on the sequencing and analysis of plant genomes. His group is part of the Harnessing Plant Initiative at the Salk that aims to develop crop plants that sequester more carbon via extensive root systems containing recalcitrant carbon polymers to fight climate change."
-        image: assets/img/timeline/toddpmichael_headshot_salk.png
+      - title: "University of Washington
+        year: "Adam Steinbrenner"
+        desc: "Adam Steinbrenner studies plant immune systems, applying tools and models from plant immunity to understand their interactions with insect pests. He is an Associate Professor in the Department of Biology at the University of Washington in Seattle."
+        image: assets/img/timeline/adam.jpg
         alt:
-      - title: "University of California, Agriculture and Natural Resources"
-        year: "Whitney Brim-DeForest"
-        desc: "Whitney Brim-DeForest is the County Director for University of California Cooperative Extension Sutter-Yuba, and the UCCE Rice and Wild Rice Advisor for Sutter, Yuba, Placer, and Sacramento counties. She holds a M.S. in International Agricultural Development and a PhD in Horticulture and Agronomy from the University of California, Davis. "
-        image: assets/img/timeline/whitney_headshot.png
-        alt: image alt text
         # you can enforce the alignment
         align: right
     end: "And more <br> from UC Davis<br> students and <br> faculty!"
@@ -156,7 +151,10 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Cree King"
         role: "MS Student, Horticulture and Agronomy Graduate Group, Brummer Lab. Investigating segregation distortion in diploid alfalfa"
-        image: assets/img/team/cree.jpg
+        image: assets/img/team/cree2.jpg
+        social:
+          - url: https://www.linkedin.com/in/cree-king-a328ba297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+            icon: fab fa-linkedin-in
       - name: "Connor Tumelty"
         role: "PhD Student, Plant Biology Graduate Group, Dubcovsky Lab. Wheat spike development"
         image: assets/img/team/connor.jpg
@@ -166,6 +164,9 @@ en: &DEFAULT_EN
       - name: "Lewis Daniel"
         role: "Graduate Student Researcher, Horticulture and Agronomy Graduate Group, Linquist Lab. Growing degree day modeling focused on the effects of temperature and nitrogen rate on rice plant physiology"
         image: assets/img/team/lewis.png
+        social:
+          - url: https://www.linkedin.com/in/ledtrip/
+            icon: fab fa-linkedin-in
       - name: "Ali Said Yusuf"
         role: "PhD Candidate, Horticulture and Agronomy Graduate Group, Cook Lab. Chickpea genetics, genomics and breeding"
         image: assets/img/team/ali.jpg
