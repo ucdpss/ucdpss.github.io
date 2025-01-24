@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         desc: "Dr. Shelby Ellison is an Assistant Professor in the Department of Plant and Agroecosystem Sciences at the University of Wisconsin - Madison. Her research interests include preserving, characterizing, and utilizing genetic diversity in alternative crops to meet the needs of regional farmers. She is also interested in how human interactions with plants, through domestication and breeding, have altered the plant genome and how we can use these selection signatures to trace domestication and improvement throughout history."
         image: assets/img/timeline/shelby.jpg
         alt: image alt text
-      - title: "University of Washington
+      - title: "University of Washington"
         year: "Adam Steinbrenner"
         desc: "Adam Steinbrenner studies plant immune systems, applying tools and models from plant immunity to understand their interactions with insect pests. He is an Associate Professor in the Department of Biology at the University of Washington in Seattle."
         image: assets/img/timeline/adam.jpg
