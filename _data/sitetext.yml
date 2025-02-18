@@ -26,7 +26,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Sponsors"
-    text: "Thank you to 2024 sponsors who supported last year's symposium!"
+    text: "Thank you for supporting the Plant Sciences Symposium!"
     section: services
 
   portfolio:
@@ -176,6 +176,9 @@ en: &DEFAULT_EN
       - name: "Amanda Wong"
         role: "PhD Candidate, Ecology Graduate Group, Taylor lab. Investigating plastic pollution in agricultural ecosystems and the effect on plants"
         image: assets/img/team/amanda.jpeg
+      - name: "Phoo Pye Zone"
+        role: "PhD student, Horticulture and Agronomy Group, Pittelkow Lab. Quantifying carbon footprint and building meta-model to predict GHG emission from rice in South East Asia using geospatial tools"
+        image: assets/img/team/phoo.jpg
             
 
   contact:
