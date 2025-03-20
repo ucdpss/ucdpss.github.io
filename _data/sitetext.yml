@@ -42,6 +42,10 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Corteva Agriscience"
+        year: "Piero Barone"
+        desc: "Piero Barone earned his PhD from the University of Perugia, Italy, focusing on the cytological and molecular characterization of a female sterility trait in alfalfa and during an exchange program with the University of Georgia, he developed transgenic alfalfa lines for aluminum tolerance. In 2003, he joined the University of Illinois, Urbana-Champaign, as a Postdoctoral Research Associate, working on a novel selection system for nuclear and plastid transformation. In 2008, he became a Research Scientist at Chromatin, designing and validating selection and transgenic event regeneration protocols for corn, sorghum, and sugarcane. In 2014, he joined Dow AgroSciences' Monocot Transformation Team, focusing on maize trait discovery projects and managing transformation programs using the Zinc Finger gene targeting tool. In 2018, Piero joined Corteva Agriscience in Johnston, where he is currently the Capability Leader of the Genome Editing group in the Biotechnology Function of Corteva R&D. He is currently the President of the Society for In Vitro Biology."
+        image: assets/img/timeline/piero.png
       - title: "University of Minnesota"
         year: "Rex Bernardo"
         desc: "Rex Bernardo is a Distinguished University Teaching Professor and endowed chair in maize breeding and genetics at the University of Minnesota. He obtained his undergraduate degree in the Philippines in 1984 and his Ph.D. degree in plant breeding from the University of Illinois in 1988. Dr. Bernardo developed the widely used genomic best linear unbiased prediction or GBLUP procedure in 1994, and most of his work has focused on marker-assisted breeding. Dr. Bernardo is director of the Plant Breeding Center at Minnesota, has written two textbooks, and teaches graduate courses in plant breeding and in professional skills for scientists as well as a freshman seminar course on coffee."
