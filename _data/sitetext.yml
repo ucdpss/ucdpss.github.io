@@ -31,7 +31,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Program"
-    text: "Check back for the 2025 Program coming soon!"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
