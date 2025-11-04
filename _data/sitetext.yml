@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: "Corteva Symposia Series Presents:"
-    text: "Cultivating the Future"
+    text: "Bridging Innovation to Impact"
     subtext: "May 1, 2026 at the UC Davis Alumni Center"
     buttons:
       - text: "Register"
@@ -36,71 +36,45 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "2025 Invited Speakers"
+    title: "2026 Invited Speakers"
     text: "Thank you to invited speakers for sharing their exciting research!"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Corteva Agriscience"
-        year: "Piero Barone"
-        desc: "Piero Barone earned his PhD from the University of Perugia, Italy, focusing on the cytological and molecular characterization of a female sterility trait in alfalfa and during an exchange program with the University of Georgia, he developed transgenic alfalfa lines for aluminum tolerance. In 2003, he joined the University of Illinois, Urbana-Champaign, as a Postdoctoral Research Associate, working on a novel selection system for nuclear and plastid transformation. In 2008, he became a Research Scientist at Chromatin, designing and validating selection and transgenic event regeneration protocols for corn, sorghum, and sugarcane. In 2014, he joined Dow AgroSciences' Monocot Transformation Team, focusing on maize trait discovery projects and managing transformation programs using the Zinc Finger gene targeting tool. In 2018, Piero joined Corteva Agriscience in Johnston, where he is currently the Capability Leader of the Genome Editing group in the Biotechnology Function of Corteva R&D. He is currently the President of the Society for In Vitro Biology."
-        image: assets/img/timeline/piero.png
-      - title: "University of Minnesota"
-        year: "Rex Bernardo"
-        desc: "Rex Bernardo is a Distinguished University Teaching Professor and endowed chair in maize breeding and genetics at the University of Minnesota. He obtained his undergraduate degree in the Philippines in 1984 and his Ph.D. degree in plant breeding from the University of Illinois in 1988. Dr. Bernardo developed the widely used genomic best linear unbiased prediction or GBLUP procedure in 1994, and most of his work has focused on marker-assisted breeding. Dr. Bernardo is director of the Plant Breeding Center at Minnesota, has written two textbooks, and teaches graduate courses in plant breeding and in professional skills for scientists as well as a freshman seminar course on coffee."
-        image: assets/img/timeline/rex.jpg
-      - title: "Cal Poly San Luis Obispo"
-        year: "Seeta Sistla"
-        desc: "Seeta Sistla is an Associate Professor in Natural Resources Management and Environmental Sciences at Cal Poly, San Luis Obispo, CA. Dr. Sistla’s scholarship focuses on understanding how land systems respond to environmental and management changes and how these responses can feed back to affect critical environmental processes like carbon sequestration. She received her PhD from UCSB focusing on terrestrial biogeochemical responses to warming in arctic systems and was a NOAA Climate and Global Change postdoctoral fellow at UC Irvine. Dr. Sistla joined Cal Poly in 2019 where her lab's research grew to include the study of the extent and consequences of plastic pollution in agricultural systems—a shift that reflects the pernicious expansion of plasticulture in CA and across the world."
-        image: assets/img/timeline/seeta.jpg
-        alt:
-      - title: "Cal Poly Humboldt"
-        year: "Tawanda Gara"
-        desc: "Tawanda Gara is an Assistant Professor in the Department of Environmental Science and Management at Cal Poly Humboldt, where he teaches in the geospatial interdisciplinary program. His research interests lie in GIScience, Earth Observation, and Spatial Statistics and their application in natural resources management, specifically forestry, agriculture, and environment (FORAGE)."
-        image: assets/img/timeline/tawanda.jpg
-        alt:
-      - title: "University of Wisconsin-Madison"
-        year: "Shelby Ellison"
-        desc: "Dr. Shelby Ellison is an Assistant Professor in the Department of Plant and Agroecosystem Sciences at the University of Wisconsin - Madison. Her research interests include preserving, characterizing, and utilizing genetic diversity in alternative crops to meet the needs of regional farmers. She is also interested in how human interactions with plants, through domestication and breeding, have altered the plant genome and how we can use these selection signatures to trace domestication and improvement throughout history."
-        image: assets/img/timeline/shelby.jpg
-        alt: image alt text
-      - title: "University of Washington"
-        year: "Adam Steinbrenner"
-        desc: "Adam Steinbrenner studies plant immune systems, applying tools and models from plant immunity to understand their interactions with insect pests. He is an Associate Professor in the Department of Biology at the University of Washington in Seattle."
-        image: assets/img/timeline/adam.jpg
-        alt:
+      - title: "TBA"
+        year: ""
+        desc: "Please check back at a later date for our speaker lineup."
+        image: assets/img/tba_speaker_tile.png
         # you can enforce the alignment
         #align: right
-    end: "And more <br> from UC Davis<br> students and <br> faculty!"
+    end: "And more <br> from UC Davis <br> students and <br> faculty!"
 
   about:
     title: "About"
     body_parts:
       - part: >
-          We are thrilled to bring together the UC Davis Plant Sciences community for this year's symposium! <br><br>
+
+          We are thrilled to bring together the UC Davis Plant Sciences community for our 15th anniversary! <br><br>
           Come to hear from speakers from across a diverse range of plant-related disciplines, 
           network with academic and industry professionals, and enjoy a poster session and reception. 
           The event will also be live-streamed to share fantastic research with attendees near and far.<br><br>
           <b>In-Person Attendance Information</b>
-          <br>The symposium will be hosted at the UC Davis Conference Center (550 Alumni Ln, Davis, CA 95616). 
-          The doors will open at 8 AM, and the event will conclude at 7 PM. Upon arrival, please proceed to the lobby 
-          to check in and receive your name badge. If you are presenting a 
-          poster, please mount your poster in Ballroom A allocated for the poster session. Lunch and light 
-          refreshments will be served on-site. Please be prepared to show proof of age when checking in if you would 
+          <br>The symposium will be hosted at the UC Davis Alumni Center (530 Alumni Ln, Davis, CA 95616). 
+          Lunch and light refreshments will be served on-site. Please be prepared to show proof of age when checking in if you would 
           like to consume an alcoholic beverage during the poster session.
-      - part: "<b>Virtual Attendance Information</b>"
+      - part: "<b>Virtual Attendance Information</b> <br> Individuals interested in attending virtually can use the button below to be re-directed to the live feed."
         button: "Join the webinar" 
-        link: "https://ucdavis.zoom.us/j/92218115806"  
-      - part: "<b>2025 Virtual Poster Presentations</b>" 
-        button: "2025 Virtual Posters"
-        link: "https://ucdavis.box.com/s/qdmd6xp6fso2ij2grci2rgmgxb7prg0z" 
+        link: ""  
+      - part: "<b>2026 Virtual Poster Presentations</b>" 
+        button: "2026 Virtual Posters"
+        link: "" 
       - part: >
-          <b> Commuting/Parking </b> <br>Nearby bus stops are located at the Silo Terminal and Peter J. Shields Library, a 10-minute walk away.
+          <b> Getting to the Alumni Center </b> <br>Nearby bus stops are located at the Silo Terminal and Peter J. Shields Library, a 10-minute walk away.
           Bicycle parking is available near the Conference Center and across the street near the Mondavi Center. 
           Car parking is available with purchase of a visitor pass (more information linked below) in the Gateway Structure Parking Lot
           and the open air lots behind the Manetti Shrem Museum. 
-          For visitor pass parking instructions, check the following link: https://taps.ucdavis.edu/visitor For information on accessible parking and services offered by UC Davis, check the following link: https://taps.ucdavis.edu/parking/guide/disabled <br>
+          For visitor pass parking instructions, please consult [UCD TAPS](https://taps.ucdavis.edu/visitor). For information on accessible parking and services offered by UC Davis, check [here](https://taps.ucdavis.edu/parking/guide/disabled). <br>
     section: about
 
 
@@ -158,7 +132,7 @@ en: &DEFAULT_EN
         image: assets/img/team/connor.jpg
       - name: "Aubanie Rose Donaldson"
         role: "PhD Student, Plant Biology Graduate Group, Zerbe Lab. Investigating the structure-function relationships of class II diterpene synthases."
-        image: assets/img/team/amrit.jpg
+        image: assets/img/team/aubanie.jpg
       - name: "Lewis Daniel"
         role: "Graduate Student Researcher, Horticulture and Agronomy Graduate Group, Linquist Lab. Growing degree day modeling focused on the effects of temperature and nitrogen rate on rice plant physiology."
         image: assets/img/team/lewis.png
