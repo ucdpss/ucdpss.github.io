@@ -116,73 +116,64 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Grey Monroe PhD"
-        role: "Faculty Advisor, Assistant Professor in Plant Sciences, plant genome evolution"
+        role: "Faculty Advisor, Assistant Professor in Plant Sciences, focus on plant genome evolution."
         image: assets/img/team/headshotmonroe.png
         social:
           - url: https://twitter.com/Grey_Monroe
             icon: fab fa-twitter
           - url: https://www.linkedin.com/in/j-grey-monroe-2913aa77/
             icon: fab fa-linkedin-in
-      - name: "Mirella Zaccheo"
-        role: "President. PhD Candidate, Horticulture and Agronomy Graduate Group, Cantu Lab. Leveraging grape genomics and gene editing to develop durable resistance against bacterial and fungal diseases"
-        image: assets/img/team/mirella.jpg
+      - name: "Mia Godbey"
+        role: "PhD Candidate, Horticulture and Agronomy Graduate Group, Linquist Lab. Practicing conservation agricultural management strategies - summer stale seedbed and no-tillage - as an alternative to conventional tillage in rice fields to evaluate the fertility requirements needed to achieve similar yield potentials."
+        image: assets/img/team/mia.jpg
         social:
-          - url: https://www.linkedin.com/in/mirella-zaccheo-84aa83193/
+          - url: https://www.linkedin.com/in/mia-godbey-1a4a33153/
             icon: fab fa-linkedin-in
       - name: "David Mitchell"
-        role: "Treasurer. PhD Candidate, Ecology Graduate Group, Eviner Lab. Soil management in native tree restoration to promote mycorrhizae and suppress soil-borne pathogens"
+        role: "PhD Candidate, Ecology Graduate Group, Eviner Lab. Soil management in native tree restoration to promote mycorrhizae and suppress soil-borne pathogens."
         image: assets/img/team/david.jpeg
         social:
           - url: "https://www.linkedin.com/in/david-mitchell-0a4265b/"
             icon: fab fa-linkedin-in
-      - name: "Anna Jo Muhich"
-        role: "Secretary. PhD Candidate, Plant Biology Graduate Group, Kliebenstein Lab. Specialized metabolism of generalist fungal pathogens and plant hosts"
-        image: assets/img/team/anna.jpg
-        social:
-          - url: "https://www.linkedin.com/in/anna-jo-muhich/"
-            icon: fab fa-linkedin-in
       - name: "Xiaolu Zhang"
-        role: "PhD Student, Horticulture and Agronomy Graduate Group, Taylor Lab. The genetic basis of water-use efficiency in lettuce"
+        role: "PhD Student, Horticulture and Agronomy Graduate Group, Taylor Lab. The genetic basis of water-use efficiency in lettuce."
         image: assets/img/team/xiaolu.jpeg
         social:
           - url: https://www.linkedin.com/in/xiaolu-zhang-ab7b73272/
             icon: fab fa-linkedin-in
-      - name: "Mia Godbey"
-        image: assets/img/team/mia.jpg
-        role: "PhD Candidate, Horticulture and Agronomy Graduate Group, Linquist Lab. Practicing conservation agricultural management strategies - summer stale seedbed and no-tillage - as an alternative to conventional tillage in rice fields to evaluate the fertility requirements needed to achieve similar yield potentials"
-        social:
-          - url: https://www.linkedin.com/in/mia-godbey-1a4a33153/
-            icon: fab fa-linkedin-in
+      - name: "Shabnam Shabnam"
+        role: "PhD Candidate, Horticulture and Agronomy Graduate Group, Brown Lab. Nutrient management and plant physiological responses to varying light conditions, with a particular emphasis on automation and precision irrigation technologies."
+        image: assets/img/team/shabnam.jpg
+      - name: "Amrit Pokhrel"
+        image: assets/img/team/amrit.jpg
+        role: "PhD Student, Horticulture and Agronomy Graduate Group, Marino Lab. Identifying physiological water stress indicators using proximal and remote sensing to optimize pistachio water use."
       - name: "Cree King"
-        role: "MS Student, Horticulture and Agronomy Graduate Group, Brummer Lab. Investigating segregation distortion in diploid alfalfa"
+        role: "MS Student, Horticulture and Agronomy Graduate Group, Brummer Lab. Investigating segregation distortion in diploid alfalfa."
         image: assets/img/team/cree2.jpg
         social:
-          - url: https://www.linkedin.com/in/cree-king-a328ba297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+          - url: https://www.linkedin.com/in/cree-king-a328ba297/
             icon: fab fa-linkedin-in
       - name: "Connor Tumelty"
-        role: "PhD Student, Plant Biology Graduate Group, Dubcovsky Lab. Wheat spike development"
+        role: "PhD Student, Plant Biology Graduate Group, Dubcovsky Lab. Wheat spike development."
         image: assets/img/team/connor.jpg
-      - name: "Amrit Pokhrel"
-        role: "PhD Student, Horticulture and Agronomy Graduate Group, Marino Lab. Identifying physiological water stress indicators using proximal and remote sensing to optimize pistachio water use"
+      - name: "Aubanie Rose Donaldson"
+        role: "PhD Student, Plant Biology Graduate Group, Zerbe Lab. Investigating the structure-function relationships of class II diterpene synthases."
         image: assets/img/team/amrit.jpg
       - name: "Lewis Daniel"
-        role: "Graduate Student Researcher, Horticulture and Agronomy Graduate Group, Linquist Lab. Growing degree day modeling focused on the effects of temperature and nitrogen rate on rice plant physiology"
+        role: "Graduate Student Researcher, Horticulture and Agronomy Graduate Group, Linquist Lab. Growing degree day modeling focused on the effects of temperature and nitrogen rate on rice plant physiology."
         image: assets/img/team/lewis.png
         social:
           - url: https://www.linkedin.com/in/ledtrip/
             icon: fab fa-linkedin-in
-      - name: "Ali Said Yusuf"
-        role: "PhD Candidate, Horticulture and Agronomy Graduate Group, Cook Lab. Chickpea genetics, genomics and breeding"
-        image: assets/img/team/ali.jpg
+      - name: "Onpreeya Phetchpitak"
+        role:
+        image:
+      - name: "Adrianna Ng"
+        role: "MS Student, Horticulture and Agronomy Graduate Group, Feldmann Lab. Developing a protoplast-based genome editing pipeline in strawberry."
+        image: assets/img/team/adrianna.jpg
         social:
-          - url: https://www.linkedin.com/in/ali-said-yusuf-a4b0a7a9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+          - url: https://www.linkedin.com/in/adrianna-ng/
             icon: fab fa-linkedin-in
-      - name: "Amanda Wong"
-        role: "PhD Candidate, Ecology Graduate Group, Taylor lab. Investigating plastic pollution in agricultural ecosystems and the effect on plants"
-        image: assets/img/team/amanda.jpeg
-      - name: "Phoo Pye Zone"
-        role: "PhD student, Horticulture and Agronomy Group, Pittelkow Lab. Quantifying carbon footprint and building meta-model to predict GHG emission from rice in South East Asia using geospatial tools"
-        image: assets/img/team/phoo.jpg
             
 
   contact:
@@ -202,17 +193,17 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+    # social:
+    #   - url: https://twitter.com
+    #     icon: "fab fa-twitter"
+    #   - url: https://facebook.com
+    #     icon: "fab fa-facebook-f"
+    #   - url: https://linkedin.com
+    #     icon: "fab fa-linkedin-in"
+    #   - url: https://github.com/raviriley/agency-jekyll-theme
+    #     icon: "fab fa-github"
+    #   - url: https://instagram.com
+    #     icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
