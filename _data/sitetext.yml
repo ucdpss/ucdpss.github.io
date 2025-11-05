@@ -124,6 +124,9 @@ en: &DEFAULT_EN
       - name: "Amrit Pokhrel"
         image: assets/img/team/amrit.jpg
         role: "Treasurer. PhD Student, Horticulture and Agronomy Graduate Group, Marino Lab. Identifying physiological water stress indicators using proximal and remote sensing to optimize pistachio water use."
+        social:
+          - url: https://www.linkedin.com/in/amrit-pokhrel/
+            icon: fab fa-linkedin-in
       - name: "Cree King"
         role: "MS Student, Horticulture and Agronomy Graduate Group, Brummer Lab. Investigating segregation distortion in diploid alfalfa."
         image: assets/img/team/cree2.jpg
@@ -143,8 +146,11 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/ledtrip/
             icon: fab fa-linkedin-in
       - name: "Onpreeya Phetchpitak"
-        role:
-        image:
+        role: PhD Student, Horticulture and Agronomy Graduate Group. Beckles Lab. Regulation of tomato fruit biology during postharvest environmental manipulations.
+        image: assets/img/team/onpreeya.png
+        social:
+          - url: https://www.linkedin.com/in/onpreeya-phetchpitak/
+            icon: fab fa-linkedin-in
       - name: "Adrianna Ng"
         role: "MS Student, Horticulture and Agronomy Graduate Group, Feldmann Lab. Developing a protoplast-based genome editing pipeline in strawberry."
         image: assets/img/team/adrianna.jpg
