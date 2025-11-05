@@ -26,7 +26,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Sponsors"
-    text: "Thank you for supporting the Plant Sciences Symposium!"
+    text: "Thank you for supporting the UC Davis Plant Sciences Symposium!"
     section: services
 
   portfolio:
@@ -37,7 +37,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "2026 Invited Speakers"
-    text: "Thank you to invited speakers for sharing their exciting research!"
+    text: "Thank you to our invited speakers for sharing their exciting research!"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -48,7 +48,7 @@ en: &DEFAULT_EN
         image: assets/img/tba_speaker_tile.png
         # you can enforce the alignment
         #align: right
-    end: "And more <br> from UC Davis <br> students and <br> faculty!"
+    end: "And more <br> from UC Davis <br> students and faculty!"
 
   about:
     title: "About"
@@ -60,7 +60,7 @@ en: &DEFAULT_EN
           network with academic and industry professionals, and enjoy a poster session and reception. 
           The event will also be live-streamed to share fantastic research with attendees near and far.<br><br>
           <b>In-Person Attendance Information</b>
-          <br>The symposium will be hosted at the UC Davis Alumni Center (530 Alumni Ln, Davis, CA 95616). 
+          <br>The symposium will be hosted at the [UC Davis Alumni Center](https://maps.app.goo.gl/QxycyWT9rYQNVcP79) (530 Alumni Ln, Davis, CA 95616). 
           Lunch and light refreshments will be served on-site. Please be prepared to show proof of age when checking in if you would 
           like to consume an alcoholic beverage during the poster session.
       - part: "<b>Virtual Attendance Information</b> <br> Individuals interested in attending virtually can use the button below to be re-directed to the live feed."
@@ -85,7 +85,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Organizing Committee"
-    text: "The Plant Sciences Symposium Organizing Committee is student led with a faculty advisor."
+    text: "The Plant Sciences Symposium Organizing Committee is primarily student-led, with a faculty advisor."
     subtext: ""
     section: team
     people:
@@ -98,29 +98,32 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/j-grey-monroe-2913aa77/
             icon: fab fa-linkedin-in
       - name: "Mia Godbey"
-        role: "PhD Candidate, Horticulture and Agronomy Graduate Group, Linquist Lab. Practicing conservation agricultural management strategies - summer stale seedbed and no-tillage - as an alternative to conventional tillage in rice fields to evaluate the fertility requirements needed to achieve similar yield potentials."
+        role: "President. PhD Candidate, Horticulture and Agronomy Graduate Group, Linquist Lab. Practicing conservation agricultural management strategies - summer stale seedbed and no-tillage - as an alternative to conventional tillage in rice fields to evaluate the fertility requirements needed to achieve similar yield potentials."
         image: assets/img/team/mia.jpg
         social:
           - url: https://www.linkedin.com/in/mia-godbey-1a4a33153/
             icon: fab fa-linkedin-in
       - name: "David Mitchell"
-        role: "PhD Candidate, Ecology Graduate Group, Eviner Lab. Soil management in native tree restoration to promote mycorrhizae and suppress soil-borne pathogens."
+        role: "Treasurer. PhD Candidate, Ecology Graduate Group, Eviner Lab. Soil management in native tree restoration to promote mycorrhizae and suppress soil-borne pathogens."
         image: assets/img/team/david.jpeg
         social:
           - url: "https://www.linkedin.com/in/david-mitchell-0a4265b/"
             icon: fab fa-linkedin-in
       - name: "Xiaolu Zhang"
-        role: "PhD Student, Horticulture and Agronomy Graduate Group, Taylor Lab. The genetic basis of water-use efficiency in lettuce."
+        role: "Secretary. PhD Student, Horticulture and Agronomy Graduate Group, Taylor Lab. The genetic basis of water-use efficiency in lettuce."
         image: assets/img/team/xiaolu.jpeg
         social:
           - url: https://www.linkedin.com/in/xiaolu-zhang-ab7b73272/
             icon: fab fa-linkedin-in
       - name: "Shabnam Shabnam"
-        role: "PhD Candidate, Horticulture and Agronomy Graduate Group, Brown Lab. Nutrient management and plant physiological responses to varying light conditions, with a particular emphasis on automation and precision irrigation technologies."
+        role: "President. Graduate Student, Horticulture and Agronomy Graduate Group, Brown Lab. Nutrient management and plant physiological responses to varying light conditions, with a particular emphasis on automation and precision irrigation technologies."
         image: assets/img/team/shabnam.jpg
+        social:
+          - url: https://www.linkedin.com/in/shabnam-shabnam-4840b0206/
+            icon: fab fa-linkedin-in
       - name: "Amrit Pokhrel"
         image: assets/img/team/amrit.jpg
-        role: "PhD Student, Horticulture and Agronomy Graduate Group, Marino Lab. Identifying physiological water stress indicators using proximal and remote sensing to optimize pistachio water use."
+        role: "Treasurer. PhD Student, Horticulture and Agronomy Graduate Group, Marino Lab. Identifying physiological water stress indicators using proximal and remote sensing to optimize pistachio water use."
       - name: "Cree King"
         role: "MS Student, Horticulture and Agronomy Graduate Group, Brummer Lab. Investigating segregation distortion in diploid alfalfa."
         image: assets/img/team/cree2.jpg
@@ -134,7 +137,7 @@ en: &DEFAULT_EN
         role: "PhD Student, Plant Biology Graduate Group, Zerbe Lab. Investigating the structure-function relationships of class II diterpene synthases."
         image: assets/img/team/aubanie.jpg
       - name: "Lewis Daniel"
-        role: "Graduate Student Researcher, Horticulture and Agronomy Graduate Group, Linquist Lab. Growing degree day modeling focused on the effects of temperature and nitrogen rate on rice plant physiology."
+        role: "Graduate Student, Horticulture and Agronomy Graduate Group, Linquist Lab. Growing degree day modeling focused on the effects of temperature and nitrogen rate on rice plant physiology."
         image: assets/img/team/lewis.png
         social:
           - url: https://www.linkedin.com/in/ledtrip/
