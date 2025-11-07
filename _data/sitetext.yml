@@ -116,7 +116,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/xiaolu-zhang-ab7b73272/
             icon: fab fa-linkedin-in
       - name: "Shabnam Shabnam"
-        role: "President. Graduate Student, Horticulture and Agronomy Graduate Group, Brown Lab. Nutrient management and plant physiological responses to varying light conditions, with a particular emphasis on automation and precision irrigation technologies."
+        role: "Co-President. Graduate Student, Horticulture and Agronomy Graduate Group, Brown Lab. Nutrient management and plant physiological responses to varying light conditions, with a particular emphasis on automation and precision irrigation technologies."
         image: assets/img/team/shabnam.jpg
         social:
           - url: https://www.linkedin.com/in/shabnam-shabnam-4840b0206/
