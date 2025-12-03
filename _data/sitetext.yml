@@ -15,10 +15,8 @@ en: &DEFAULT_EN
     text: "Bridging Innovation to Impact"
     subtext: "May 1, 2026 at the UC Davis Alumni Center"
     buttons:
-      - text: "Register"
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSfxL7gmOI94-ZwSGfZ49wmCaubKvJqlwJl3xthubCuaJi8poQ/viewform?usp=sharing"
-      - text: "Apply to Present"
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSc95q9Zhkg8m99BnJJi4l0dglaJ9NE4t58wS3iN20tQLDteiQ/viewform?usp=sharing"
+      - text: "Register or Apply to Present"
+        link: "https://forms.gle/dZRkLZStcujWbm1o7"
       - text: "Volunteer"
         link: "https://docs.google.com/forms/d/e/1FAIpQLSdXR3DC-65AFlr7sB_E1zs28Jwv8MCJZEmeCU3Xw09XMTcHiA/viewform?usp=preview"
     
