@@ -50,13 +50,13 @@ en: &DEFAULT_EN
 
   about:
     title: "About"
+    text: "Listen to insightful and exciting plant sciences research in Davis, CA."
     body_parts:
       - part: >
-
-          We are thrilled to bring together the UC Davis Plant Sciences community for our 15th anniversary! <br><br>
-          Come to hear from speakers from across a diverse range of plant-related disciplines, 
-          network with academic and industry professionals, and enjoy a poster session and reception. 
-          The event will also be live-streamed to share fantastic research with attendees near and far.<br><br>
+          We are thrilled to bring together the UC Davis Plant Sciences community for our **15th anniversary**! <br><br>
+          Attend a day dedicated to scientific research in the plant sciences. Hear from speakers across a diverse range of plant-related disciplines, 
+          network with academic and industry professionals alike, and enjoy a poster session featuring the research of up-and-coming scientists. 
+          The speaking event will also be live-streamed to share the fantastic research with attendees near and far.<br><br>
           <b>In-Person Attendance Information</b>
           <br>The symposium will be hosted at the [UC Davis Alumni Center](https://maps.app.goo.gl/QxycyWT9rYQNVcP79) (530 Alumni Ln, Davis, CA 95616). 
           Lunch and light refreshments will be served on-site. Please be prepared to show proof of age when checking in if you would 
@@ -68,11 +68,10 @@ en: &DEFAULT_EN
         button: "2026 Virtual Posters"
         link: "" 
       - part: >
-          <b> Getting to the Alumni Center </b> <br>Nearby bus stops are located at the Silo Terminal and Peter J. Shields Library, a 10-minute walk away.
+          <b> Getting to the Alumni Center </b> <br>Nearby bus stops are located at the [Silo Terminal](https://maps.app.goo.gl/zvsw32iCE8tngSrW8) and [Peter J. Shields Library](https://maps.app.goo.gl/yeSy9FkKZduvnPip9), a 10-minute walk away.
           Bicycle parking is available near the Conference Center and across the street near the Mondavi Center. 
-          Car parking is available with purchase of a visitor pass (more information linked below) in the Gateway Structure Parking Lot
-          and the open air lots behind the Manetti Shrem Museum. 
-          For visitor pass parking instructions, please consult [UCD TAPS](https://taps.ucdavis.edu/visitor). For information on accessible parking and services offered by UC Davis, check [here](https://taps.ucdavis.edu/parking/guide/disabled). <br>
+          Car parking is available with purchase of a [visitor pass](https://taps.ucdavis.edu/visitor) in the [Gateway Structure Parking Lot](https://maps.app.goo.gl/7mUGsTQ3YsF6VKrP6)
+          and the open air lots behind the Manetti Shrem Museum. For information on accessible parking and services offered by UC Davis, check [here](https://transportation.ucdavis.edu/parking/guide/disabled#visitor). <br>
     section: about
 
 
