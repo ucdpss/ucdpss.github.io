@@ -4,7 +4,7 @@ white: "#ffffff"
 black: "#000000"
 
 #Image Customization
-header-image: "../img/pss_temp_banner.png"
+header-image: "../img/promos/2026_final_banner.png"
 contact-image: "../img/contact.png"
 background-image: "../img/psswebsite_backgroundfoliage.png"
 #Font Awesome icon for portfolio grid when an item is hovered over
