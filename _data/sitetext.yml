@@ -44,10 +44,6 @@ en: &DEFAULT_EN
         year: ""
         desc: "Please check back at a later date for the reveal of our partner speaker."
         image: assets/img/tba_speaker_tile.png
-      - title: "National Research Council (IAS-CSIC)"
-        year: "Pablo J. Zarco-Tejada"
-        desc: "Dr. Pablo J. Zarco-Tejada leads QuantaLab Remote Sensing Laboratory at the Institute for Sustainable Agriculture (IAS), part of the Spanish Council for Scientific Research (CSIC). He is also Honorary Professor at the University of Melbourne, Australia. His research centers on remote sensing technologies for detecting biotic and abiotic stress in vegetation, particularly water stress, with a strong focus on hyperspectral and thermal imaging. He earned an Agricultural Engineering degree from the University of Córdoba in Spain, a Master of Science in Remote Sensing &amp; Image Processing in Scotland, UK, and a PhD in Earth and Space Science at York University, Canada. His international academic and research career includes appointments as a contract faculty at the University of California, Davis (USA). He also served as Director of IAS-CSIC (2008-2012), Senior Scientist at the Joint Research Centre (JRC) of the European Commission (2012-2018), and a full professorship in Remote Sensing at the School of Agriculture and the Faculty of Engineering, University of Melbourne, Australia (2018-2024). Recognized for his scientific contributions, Dr. Zarco-Tejada has been consistently named a Highly Cited Researcher since 2019, reflecting the significant impact of his work in the fields of remote sensing of vegetation using drones and piloted aircraft. He has authored more than 200 peer-reviewed scientific publications in leading international journals."
-        image: assets/img/timeline/pzarcotejada.jpeg
       - title: "University of Arizona"
         year: "Michael Kotutwa Johnson"
         desc: "Dr. Michael Kotutwa Johnson is an Assistant Professor/Extension Specialist of Indigenous Resilience at the University of Arizona’s School of Natural Resources and the Environment and a core faculty member of the Indigenous Resilience Center. Dr. Johnson is a Hopi tribal member and avid Hopi dryland farmer. He often mentions he is a 250th-generation Hopi farmer. His research focuses on Indigenous Land Use Management schemes, such as Indigenous agriculture and the intersections of policy, science, and law. His academic work consists of peer-reviewed journal articles and tribal outreach. He recently started the Fred Aptvi Foundation, focusing on growing traditional Hopi crops, establishing a community seed bank, and developing a Hopi youth agriculture program that includes the Hopi language."
@@ -144,17 +140,17 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/xiaolu-zhang-ab7b73272/
             icon: fab fa-linkedin-in
-      - name: "Shabnam Shabnam"
-        role: "Co-President. Graduate Student, Horticulture and Agronomy Graduate Group, Brown Lab. Nutrient management and plant physiological responses to varying light conditions, with a particular emphasis on automation and precision irrigation technologies."
-        image: assets/img/team/shabnam.jpg
-        social:
-          - url: https://www.linkedin.com/in/shabnam-shabnam-4840b0206/
-            icon: fab fa-linkedin-in
       - name: "Amrit Pokhrel"
         image: assets/img/team/amrit.jpg
         role: "Treasurer. PhD Student, Horticulture and Agronomy Graduate Group, Marino Lab. Identifying physiological water stress indicators using proximal and remote sensing to optimize pistachio water use."
         social:
           - url: https://www.linkedin.com/in/amrit-pokhrel/
+            icon: fab fa-linkedin-in
+      - name: "Shabnam Shabnam"
+        role: "PhD student, Horticulture and Agronomy Graduate Group, Brown Lab. Nutrient management and plant physiological responses to varying light conditions, with a particular emphasis on automation and precision irrigation technologies."
+        image: assets/img/team/shabnam.jpg
+        social:
+          - url: https://www.linkedin.com/in/shabnam-shabnam-4840b0206/
             icon: fab fa-linkedin-in
       - name: "Cree King"
         role: "MS Student, Horticulture and Agronomy Graduate Group, Brummer Lab. Investigating segregation distortion in diploid alfalfa."
