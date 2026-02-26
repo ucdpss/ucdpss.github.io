@@ -70,7 +70,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/vcolantonio.jpg  
       - title: "University of California, Davis - Plant Transformation Facility"
         year: "Juan Debernardi"
-        desc: "Dr. Juan Debernardi's biography is forthcoming."
+        desc: "Dr. Juan Debernardi is a plant developmental and molecular biologist with a strong commitment to advancing crop improvement for sustainable agriculture. Juan earned his degree in Biotechnology and later a Ph.D. in Biological Sciences from the National University of Rosario (UNR), Argentina. In 2014, he joined Prof. Jorge Dubcovsky’s laboratory at UC Davis as a Human Frontier Science Program (HFSP) Postdoctoral Fellow, and later served as a Research Specialist supported by the Howard Hughes Medical Institute (HHMI). At UC Davis, Juan led a research team investigating the genetic networks that regulate wheat plant architecture and flowering time, and their impact on yield potential. During this time, he also co-developed the GRF–GIF technology, a widely adopted innovation that significantly enhances the recovery of gene-edited plants in wheat and other recalcitrant crops. Currently, Juan serves as Manager of the Plant Transformation Unit at UC Davis, where he coordinates plant transformation services and leads research initiatives aimed at improving gene-editing technologies and accelerating their application in crop improvement."
         image: assets/img/timeline/jdebernardi.jpg  
         # you can enforce the alignment
         #align: right
