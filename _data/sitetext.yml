@@ -46,7 +46,7 @@ en: &DEFAULT_EN
         image: assets/img/tba_speaker_tile.png
       - title: "University of Wisconsin-Madison"
         year: "Julie Dawson"
-        desc: "Julie Dawson is a Professor in the Department of Plant and Agroecosystem Sciences at the University of Wisconsin-Madison, training students in the plant breeding and plant genetics, horticulture, and agroecology graduate fields. Research interests include the use of genetic resources in plant breeding for organic systems and methods for participatory selection and variety development. She is also the state Extension specialist for regional food systems and does applied research for growers serving local food markets."
+        desc: "Dr. Julie Dawson is a Professor in the Department of Plant and Agroecosystem Sciences at the University of Wisconsin-Madison, training students in plant breeding and plant genetics, horticulture, and agroecology graduate fields. Research interests include the use of genetic resources in plant breeding for organic systems and methods for participatory selection and variety development. She is also the state extension specialist for regional food systems and does applied research for growers serving local food markets."
         image: assets/img/timeline/j_dawson.jpg
       - title: "University of Arizona"
         year: "Michael Kotutwa Johnson"
