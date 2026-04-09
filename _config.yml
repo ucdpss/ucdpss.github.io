@@ -19,8 +19,8 @@ remote_theme: raviriley/agency-jekyll-theme
 #theme: jekyll-agency
 
 url    : ""  # the base hostname & protocol for your site, e.g. http://example.com
-#baseurl: "ucdpss.github.io" # the subpath of your site, e.g. /blog
-baseurl: ""  # uncomment this and comment out the line above for local testing
+baseurl: "ucdpss.github.io" # the subpath of your site, e.g. /blog
+#baseurl: ""  # uncomment this and comment out the line above for local testing
 
 force_https: True
 

@@ -15,10 +15,10 @@ en: &DEFAULT_EN
     text: "Bridging Innovation to Impact"
     subtext: "May 1, 2026 at the UC Davis Alumni Center"
     buttons:
-      - text: "Register or Apply to Present"
-        link: "https://forms.gle/dZRkLZStcujWbm1o7"
-      - text: "Volunteer"
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSdXR3DC-65AFlr7sB_E1zs28Jwv8MCJZEmeCU3Xw09XMTcHiA/viewform?usp=preview"
+      - text: "(CLOSED) In-person registration"
+        link: ""
+      - text: "(CLOSED) Volunteer"
+        link: ""
     
     
 
@@ -41,9 +41,9 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Featured Corteva Speaker"
-        year: ""
-        desc: "Please check back at a later date for the reveal of our partner speaker."
-        image: assets/img/tba_speaker_tile.png
+        year: "Andrea Varella"
+        desc: "Dr. Andrea C. Varella is a Corn Breeding Scientist at Corteva Agriscience. She began her plant breeding career at Montana State University, earning a Ph.D. in Plant Breeding and Genetics and serving as a Postdoctoral Researcher. She later joined Limagrain as a wheat breeder in Western Canada, where she developed and implemented breeding strategies, technologies, and advanced germplasm to deliver improved varieties to growers. In 2022, she transitioned to a management role, leading Limagrain’s Cereals and Pulses Research teams across North America. In 2024, Andrea relocated to Eastern Canada to join Corteva Agriscience, where she now collaborates with a dynamic team of scientists to accelerate genetic gain in early maturity corn. In addition to her core breeding responsibilities, Andrea leads multiple initiatives to develop and implement advanced data collection strategies for disease resistance breeding."
+        image: assets/img/timeline/avarella.jpg
       - title: "University of Wisconsin-Madison"
         year: "Julie Dawson"
         desc: "Dr. Julie Dawson is a Professor in the Department of Plant and Agroecosystem Sciences at the University of Wisconsin-Madison, training students in plant breeding and plant genetics, horticulture, and agroecology graduate fields. Research interests include the use of genetic resources in plant breeding for organic systems and methods for participatory selection and variety development. She is also the state extension specialist for regional food systems and does applied research for growers serving local food markets."
@@ -93,12 +93,11 @@ en: &DEFAULT_EN
           <br>The symposium will be hosted at the [UC Davis Alumni Center](https://maps.app.goo.gl/QxycyWT9rYQNVcP79) (530 Alumni Ln, Davis, CA 95616). 
           Lunch and light refreshments will be served on-site. Please be prepared to show proof of age when checking in if you would 
           like to consume an alcoholic beverage during the poster session.
-      - part: "<b>Virtual Attendance Information</b> <br> Individuals interested in attending virtually can use the button below to be re-directed to the live feed."
+          <br>
+          <br>**In-person registration has closed for the 2026 Plant Sciences Symposium**. Interested attendees may still sign up to attend virtually using the link below.
+      - part: "<b>Virtual Attendance Information</b> <br> Individuals interested in attending virtually can use the button below to sign up for our **Zoom livestream**."
         button: "Join the webinar" 
-        link: ""  
-      - part: "<b>2026 Virtual Poster Presentations</b>" 
-        button: "2026 Virtual Posters"
-        link: "" 
+        link: "https://ucdavis.zoom.us/webinar/register/WN_MKWq8hjWQiiCYRmKZh-C9g"  
       - part: >
           <b> Getting to the Alumni Center </b> <br>Nearby bus stops are located at the [Silo Terminal](https://maps.app.goo.gl/zvsw32iCE8tngSrW8) and [Peter J. Shields Library](https://maps.app.goo.gl/yeSy9FkKZduvnPip9), a 10-minute walk away.
           Bicycle parking is available near the Conference Center and across the street near the Mondavi Center. 
