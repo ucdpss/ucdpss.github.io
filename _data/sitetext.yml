@@ -15,10 +15,10 @@ en: &DEFAULT_EN
     text: "Bridging Innovation to Impact"
     subtext: "May 1, 2026 at the UC Davis Alumni Center"
     buttons:
-      - text: "(CLOSED) In-person registration"
-        link: ""
-      - text: "(CLOSED) Volunteer"
-        link: ""
+      - text: "Late Registration"
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSfUx0yFTyzA9n40XkIL5UL09Dz-NWSg8TQZPRqQBE5PAO5ewQ/viewform?usp=dialog"
+      - text: "Webinar/Zoom Registration"
+        link: "https://ucdavis.zoom.us/webinar/register/WN_MKWq8hjWQiiCYRmKZh-C9g"
     
     
 
@@ -94,7 +94,7 @@ en: &DEFAULT_EN
           Lunch and light refreshments will be served on-site. Please be prepared to show proof of age when checking in if you would 
           like to consume an alcoholic beverage during the poster session.
           <br>
-          <br>**In-person registration has closed for the 2026 Plant Sciences Symposium**. Interested attendees may still sign up to attend virtually using the link below.
+          <br>**Due to demand, we have re-opened in-person registration**. However, please note that by participating in late registration, you will not be guaranteed a lunch or dinner meal. For attendees that want to attend online, you may still sign up to attend virtually using the link below.
       - part: "<b>Virtual Attendance Information</b> <br> Individuals interested in attending virtually can use the button below to sign up for our **Zoom livestream**."
         button: "Join the webinar" 
         link: "https://ucdavis.zoom.us/webinar/register/WN_MKWq8hjWQiiCYRmKZh-C9g"  
