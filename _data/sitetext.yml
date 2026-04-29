@@ -98,6 +98,9 @@ en: &DEFAULT_EN
       - part: "<b>Virtual Attendance Information</b> <br> Individuals interested in attending virtually can use the button below to sign up for our **Zoom livestream**."
         button: "Join the webinar" 
         link: "https://ucdavis.zoom.us/webinar/register/WN_MKWq8hjWQiiCYRmKZh-C9g"  
+      - part: "You may view our virtual poster session below. Thank you to our symposium presenters!"
+        button: "View virtual posters"
+        link: "https://ucdavis.box.com/s/1nh0f6lqj06s33x5rrkpc5nryq4manah"
       - part: >
           <b> Getting to the Alumni Center </b> <br>Nearby bus stops are located at the [Silo Terminal](https://maps.app.goo.gl/zvsw32iCE8tngSrW8) and [Peter J. Shields Library](https://maps.app.goo.gl/yeSy9FkKZduvnPip9), a 10-minute walk away.
           Bicycle parking is available near the Conference Center and across the street near the Mondavi Center. 
